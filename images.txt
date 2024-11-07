@@ -3,3 +3,4 @@ openjdk:8
 wurstmeister/kafka:latest
 wurstmeister/zookeeper:latest
 dushixiang/kafka-map:latest
+qingpan/rnacos:0.6.4
