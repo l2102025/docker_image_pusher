@@ -4,3 +4,4 @@ wurstmeister/kafka:latest
 wurstmeister/zookeeper:latest
 dushixiang/kafka-map:latest
 qingpan/rnacos:stable
+gitlab/gitlab-ce:latest
