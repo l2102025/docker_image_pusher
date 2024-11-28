@@ -6,3 +6,4 @@ dushixiang/kafka-map:latest
 qingpan/rnacos:stable
 gitlab/gitlab-ce:latest
 gitlab/gitlab-runner:latest
+nginx:latest
