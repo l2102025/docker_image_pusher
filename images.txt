@@ -1,10 +1,1 @@
-openjdk:8
-
-wurstmeister/kafka:latest
-wurstmeister/zookeeper:latest
-dushixiang/kafka-map:latest
-qingpan/rnacos:stable
-gitlab/gitlab-ce:latest
-gitlab/gitlab-runner:latest
-nginx:latest
-oceanbase/oceanbase-ce:3.1.2
+docker.io/library/alpine:latest
