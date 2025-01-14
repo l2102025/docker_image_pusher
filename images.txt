@@ -1,1 +1,1 @@
-atmoz/sftp:latest
+zhayujie/chatgpt-on-wechat:latest
