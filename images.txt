@@ -1,1 +1,1 @@
-tugraph/tugraph-db-centos7
+nginx:latest
