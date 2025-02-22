@@ -1,1 +1,1 @@
-nginx:latest
+tugraph/tugraph-runtime-centos7
