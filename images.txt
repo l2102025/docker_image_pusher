@@ -1,1 +1,1 @@
-henryxiaoyang/xybotv2:latest
+tugraph/tugraph-db-centos7
