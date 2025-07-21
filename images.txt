@@ -1,1 +1,1 @@
-ghcr.io/ggml-org/whisper.cpp:main-cuda-2e6be2f38086e6c0930e94731b8a964c6579e465
+ghcr.io/ggml-org/whisper.cpp:main
