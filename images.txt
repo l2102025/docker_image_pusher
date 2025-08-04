@@ -1,1 +1,1 @@
-wechatpadpro/wechatpadpro:lateset
+wechatpadpro/wechatpadpro:latest
