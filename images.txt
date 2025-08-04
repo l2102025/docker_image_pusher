@@ -1,1 +1,1 @@
-ghcr.io/ggml-org/whisper.cpp:main
+wechatpadpro/wechatpadpro:lateset
