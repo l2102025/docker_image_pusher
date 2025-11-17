@@ -1,1 +1,3 @@
-wechatpadpro/wechatpadpro:latest
+bitnami/etcd:latest
+apache/apisix:latest
+apache/apisix-dashboard:latest
