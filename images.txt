@@ -1,3 +1,1 @@
-bitnamilegacy/etcd:3.5.7
-apache/apisix:3.14.1-ubuntu
-mysql:8
+jenkins/jenkins:lts
