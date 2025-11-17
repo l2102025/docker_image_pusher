@@ -1,1 +1,1 @@
-jenkins/jenkins:2.528.2-lts-jdk21
+nginx:alpine
