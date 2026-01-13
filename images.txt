@@ -1,1 +1,1 @@
-nginx:alpine
+oldiy/dosgame-web-docker:latest
