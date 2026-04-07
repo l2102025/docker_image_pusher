@@ -1,1 +1,1 @@
-oldiy/dosgame-web-docker:latest
+ghcr.io/openclaw/openclaw:latest
